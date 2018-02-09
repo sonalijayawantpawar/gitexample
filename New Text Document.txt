@@ -1,5 +1,2 @@
 This is Text File
-
 next line
-
-new branch added
