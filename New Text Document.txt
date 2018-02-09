@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is Text File
 next line
+=======
+This is Text
+>>>>>>> 33be8ca297bf99929a19afd25bdc9f7c8c121acf
